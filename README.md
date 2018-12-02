@@ -27,7 +27,7 @@ Repo ini berisi unofficial write up yang ditulis oleh [GPR](https://github.com/g
 
 ### Misc.
 
-- Redacted Document (25 poin)
+- [Redacted Document (25 poin)](https://github.com/gagahpangeran/Netsos-Fortnight-2018/tree/master/misc/redacted-document)
 - Cascading Style Sheets (75 poin)
 - I was once safe (75 poin)
 
