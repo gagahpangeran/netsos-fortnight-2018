@@ -10,7 +10,7 @@ Repo ini berisi unofficial write up yang ditulis oleh [GPR](https://github.com/g
 
 ### Tutorial
 
-- Sample Flag (1 poin)
+- [Sample Flag (1 poin)](https://github.com/gagahpangeran/Netsos-Fortnight-2018/tree/masted/tutorial/sample-flag)
 
 ### Basic Knowledge
 
