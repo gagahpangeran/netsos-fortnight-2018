@@ -45,4 +45,8 @@ Dari fungsi tersebut dapat ditarik kesimpulan bahwa password yang akan dimasukka
 
 Ternyata untuk mencari website decrypt md5 cukup mudah, gue menemukan [md5online](https://www.md5online.org/md5-decrypt.html). Kemudian hash password yang ada di program tadi gue masukkan dan didapatkanlah password `it is not safe`.
 
+![MD5 decrypt](https://raw.githubusercontent.com/gagahpangeran/Netsos-Fortnight-2018/master/misc/i-was-once-safe/img/md5.png?token=AEvCeexnnkWY2_DLNS-BHPFaBsCVPofYks5cDJblwA%3D%3D)
+
 Selanjutnya hanya tinggal mengeksekusi program dan didaparkanlah flag `NETSOS{d0nt_h4sH_pA5sWoRDz_w1tH_md5_it_is_no_longer_safe}`.
+
+![Get Flag](https://raw.githubusercontent.com/gagahpangeran/Netsos-Fortnight-2018/master/misc/i-was-once-safe/img/app.png?token=AEvCebKeQEQY4sZgx6KFIj8LDVotsw5eks5cDJcSwA%3D%3D)
