@@ -16,4 +16,6 @@ To view, or to inspect? That is the question.
 
 Setelah membuka file nya ternyata gue langsung dapat flag nya karena waktu itu firefox gue mengaktifkan darkmode :v
 
+![Dark Mode](https://raw.githubusercontent.com/gagahpangeran/Netsos-Fortnight-2018/master/misc/cascading-style-sheets/img/css.png)
+
 Oke, gimana solusi benarnya kalo kalian gak ada dark mode di browser?
