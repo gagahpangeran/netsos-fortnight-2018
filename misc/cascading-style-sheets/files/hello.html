@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <title>Fortnight by NETSOS</title>
+</head>
+<body>
+    <style>
+        .greeting {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        #a::after {
+            content: "s5c}so";
+            text-transform: uppercase;
+            direction:rtl;
+            unicode-bidi: bidi-override;
+        }
+        body {
+            font-size: 32px;
+        }
+        h1 {
+            font-family: 'Roboto', sans-serif;
+        }
+        .greeting > div {
+            color: #fdfdfd;
+        }
+        #c::after {
+            content: 'cool_bro';
+        }
+        .greeting > h1 {
+            flag: "netsos{did_you_think_it_was_this_easy?}"
+            /*NOTE: the real flag format is NETSOS{<some characters>} case sensitive*/
+        }
+        #a::before {
+            content: "nets";
+            text-transform: uppercase
+        }
+        #c {
+            content: 'not_';
+        }
+        .greeting > div > span:last-child::after {
+            content: "!}"
+        }
+        #c::before {
+            content: '_is_'
+        }
+    </style>
+    <div class="greeting">
+        <h1>你好，世界!</h1>
+        <div><span id="a"></span><span id="c"></span><span id="b"></span></div>
+    </div>
+</body>
+</html>

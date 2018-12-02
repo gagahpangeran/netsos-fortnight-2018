@@ -4,7 +4,7 @@
 
 [Redacted Document](http://152.118.201.254:8000/challenges#Redacted%20Document)
 
-## File
+## Files
 
 [Redacted-Document.pdf](https://github.com/gagahpangeran/Netsos-Fortnight-2018/tree/master/misc/redacted-document/files/Redacted-Document.pdf)
 
