@@ -2,7 +2,7 @@
 
 ## Link Soal
 
-[Cascading Style Sheetst](http://152.118.201.254:8000/challenges#Cascading%20Style%20Sheets)
+[Cascading Style Sheets](http://152.118.201.254:8000/challenges#Cascading%20Style%20Sheets)
 
 ## Files
 
