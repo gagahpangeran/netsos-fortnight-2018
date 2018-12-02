@@ -1,6 +1,6 @@
 # Sample Flag (1 Poin)
 
-## Link
+## Link Soal
 
 [Sample Flag](http://152.118.201.254:8000/challenges#Sample%20Flag)
 

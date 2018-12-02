@@ -2,20 +2,20 @@
 
 Repo ini berisi unofficial write up yang ditulis oleh [GPR](https://github.com/gagahpangeran/) dari kontes CTF fortnight yang diadakan oleh Netsos Ristek Fasilkom UI
 
-## Link
+## Link Kontes
 
-- [Netsos Fortnight 2018](http://152.118.201.254:8000)
+[Netsos Fortnight 2018](http://152.118.201.254:8000)
 
 ## Write Up
 
 ### Tutorial
 
-- [Sample Flag (1 poin)](https://github.com/gagahpangeran/Netsos-Fortnight-2018/tree/masted/tutorial/sample-flag)
+- [Sample Flag (1 poin)](https://github.com/gagahpangeran/Netsos-Fortnight-2018/tree/master/tutorial/sample-flag)
 
 ### Basic Knowledge
 
-- Kuis - 1 - Stack & Function (25 poin)
-- Kuis - 2 - Calling Convention (25 poin)
+- [Kuis - 1 - Stack & Function (25 poin)](https://github.com/gagahpangeran/Netsos-Fortnight-2018/tree/master/basic-knowledge/kuis-1-stack-function)
+- [Kuis - 2 - Calling Convention (25 poin)](https://github.com/gagahpangeran/Netsos-Fortnight-2018/tree/master/basic-knowledge/kuis-2-calling-convention)
 
 ### Pwn
 
