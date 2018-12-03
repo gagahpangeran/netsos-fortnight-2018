@@ -8,41 +8,52 @@ Repo ini berisi unofficial write up yang ditulis oleh [GPR](https://github.com/g
 
 ## Write Up
 
-### Tutorial
-
-- [Sample Flag (1 poin)](https://github.com/gagahpangeran/Netsos-Fortnight-2018/tree/master/tutorial/sample-flag)
-
 ### Basic Knowledge
 
-- [Kuis - 1 - Stack & Function (25 poin)](https://github.com/gagahpangeran/Netsos-Fortnight-2018/tree/master/basic-knowledge/kuis-1-stack-function)
-- [Kuis - 2 - Calling Convention (25 poin)](https://github.com/gagahpangeran/Netsos-Fortnight-2018/tree/master/basic-knowledge/kuis-2-calling-convention)
+- [Kuis - 1 - Stack & Function (25 Poin)](https://github.com/gagahpangeran/Netsos-Fortnight-2018/tree/master/basic-knowledge/kuis-1-stack-function)
+- [Kuis - 2 - Calling Convention (25 Poin)](https://github.com/gagahpangeran/Netsos-Fortnight-2018/tree/master/basic-knowledge/kuis-2-calling-convention)
+- Belajar Pake GDB/RADARE (25 Poin)
+- PRPRPR (0 Poin)
 
-### Pwn
+### Binary Exploitation
 
-- Intro to Shell (25 poin)
-- Format String Easy (50 poin)
-- Jurnal Jejak Relatif (50 poin)
-- Suntikan Sederhana (50 poin)
-- Format String Medium (50 poin)
-
-### Misc.
-
-- [Redacted Document (25 poin)](https://github.com/gagahpangeran/Netsos-Fortnight-2018/tree/master/misc/redacted-document)
-- [Cascading Style Sheets (75 poin)](https://github.com/gagahpangeran/Netsos-Fortnight-2018/tree/master/misc/cascading-style-sheets)
-- [I was once safe (75 poin)](https://github.com/gagahpangeran/Netsos-Fortnight-2018/tree/master/misc/i-was-once-safe)
+- RistekFest: upsolve (225 Poin)
 
 ### Cryptography
 
-- Brutus and Caesar (100 poin)
-- A Few Bits of Modern Crypto (100 poin)
-- More Bits of Modern Crypto (150 poin)
+- Brutus and Caesar (100 Poin)
+- A Few Bits of Modern Crypto (100 Poin)
+- More Bits of Modern Crypto (150 Poin)
+
+### Misc.
+
+- [Redacted Document (25 Poin)](https://github.com/gagahpangeran/Netsos-Fortnight-2018/tree/master/misc/redacted-document)
+- [Cascading Style Sheets (75 Poin)](https://github.com/gagahpangeran/Netsos-Fortnight-2018/tree/master/misc/cascading-style-sheets)
+- [I was once safe (75 Poin)](https://github.com/gagahpangeran/Netsos-Fortnight-2018/tree/master/misc/i-was-once-safe)
+
+### Pwn
+
+- Intro to Shell (25 Poin)
+- Format String Easy (50 Poin)
+- Jurnal Jejak Relatif (50 Poin)
+- Suntikan Sederhana (50 Poin)
+- Format String Medium (50 Poin)
+- Aren 21 Exploitation (50 Poin)
 
 ### Reverse Engineering
 
-- Binary Analysis (25 poin)
-- Basic Reversing (25 poin)
-- Core Dump File Analysis (200 poin)
+- Binary Analysis (25 Poin)
+- Basic Reversing (25 Poin)
+
+### Tutorial
+
+- [Sample Flag (1 Poin)](https://github.com/gagahpangeran/Netsos-Fortnight-2018/tree/master/tutorial/sample-flag)
+
+### Web
+
+- RistekFest: ezpz upsolve (225 Poin)
 
 ### Web Exploitation
 
-- Impossible Flag Gacha (250 poin)
+- Impossible Flag Gacha (200 Poin)
+- Evil Corp. (100 Poin)
