@@ -4,15 +4,15 @@
 
 [I was once safe](http://152.118.201.254:8000/challenges#I%20was%20once%20safe)
 
-## Files
-
-[app.py](https://github.com/gagahpangeran/Netsos-Fortnight-2018/tree/master/misc/i-was-once-safe/files/app.py)
-
 ## Deskripsi Soal
 
 Hey look I found this old program form the 90s! Would you take a look?
 
 Connect with: `nc 152.118.201.254 8103`
+
+## Files
+
+[app.py](https://github.com/gagahpangeran/Netsos-Fortnight-2018/tree/master/misc/i-was-once-safe/files/app.py)
 
 ## Solusi
 
