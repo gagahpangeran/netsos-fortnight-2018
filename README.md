@@ -33,7 +33,7 @@ Repo ini berisi unofficial write up yang ditulis oleh [GPR](https://github.com/g
 
 ### Pwn
 
-- Intro to Shell (25 Poin)
+- [Intro to Shell (25 Poin)](https://github.com/gagahpangeran/Netsos-Fortnight-2018/tree/master/pwn/intro-to-shell/)
 - Format String Easy (50 Poin)
 - Jurnal Jejak Relatif (50 Poin)
 - Suntikan Sederhana (50 Poin)
