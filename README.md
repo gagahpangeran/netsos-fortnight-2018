@@ -10,9 +10,9 @@ Repo ini berisi unofficial write up yang ditulis oleh [GPR](https://github.com/g
 
 ### Basic Knowledge
 
+- Belajar Pake GDB/RADARE (25 Poin)
 - [Kuis - 1 - Stack & Function (25 Poin)](https://github.com/gagahpangeran/Netsos-Fortnight-2018/tree/master/basic-knowledge/kuis-1-stack-function)
 - [Kuis - 2 - Calling Convention (25 Poin)](https://github.com/gagahpangeran/Netsos-Fortnight-2018/tree/master/basic-knowledge/kuis-2-calling-convention)
-- Belajar Pake GDB/RADARE (25 Poin)
 - PRPRPR (0 Poin)
 
 ### Binary Exploitation
@@ -21,29 +21,30 @@ Repo ini berisi unofficial write up yang ditulis oleh [GPR](https://github.com/g
 
 ### Cryptography
 
-- Brutus and Caesar (100 Poin)
 - A Few Bits of Modern Crypto (100 Poin)
+- Brutus and Caesar (100 Poin)
 - More Bits of Modern Crypto (150 Poin)
 
 ### Misc.
 
-- [Redacted Document (25 Poin)](https://github.com/gagahpangeran/Netsos-Fortnight-2018/tree/master/misc/redacted-document)
 - [Cascading Style Sheets (75 Poin)](https://github.com/gagahpangeran/Netsos-Fortnight-2018/tree/master/misc/cascading-style-sheets)
 - [I was once safe (75 Poin)](https://github.com/gagahpangeran/Netsos-Fortnight-2018/tree/master/misc/i-was-once-safe)
+- [Redacted Document (25 Poin)](https://github.com/gagahpangeran/Netsos-Fortnight-2018/tree/master/misc/redacted-document)
+- Slash-Slash (50 Poin)
 
 ### Pwn
 
-- [Intro to Shell (25 Poin)](https://github.com/gagahpangeran/Netsos-Fortnight-2018/tree/master/pwn/intro-to-shell/)
+- Aren 21 Exploitation (50 Poin)
 - Format String Easy (50 Poin)
+- Format String Medium (50 Poin)
+- [Intro to Shell (25 Poin)](https://github.com/gagahpangeran/Netsos-Fortnight-2018/tree/master/pwn/intro-to-shell/)
 - Jurnal Jejak Relatif (50 Poin)
 - Suntikan Sederhana (50 Poin)
-- Format String Medium (50 Poin)
-- Aren 21 Exploitation (50 Poin)
 
 ### Reverse Engineering
 
-- Binary Analysis (25 Poin)
 - Basic Reversing (25 Poin)
+- Binary Analysis (25 Poin)
 
 ### Tutorial
 
@@ -55,5 +56,5 @@ Repo ini berisi unofficial write up yang ditulis oleh [GPR](https://github.com/g
 
 ### Web Exploitation
 
-- Impossible Flag Gacha (200 Poin)
 - Evil Corp. (100 Poin)
+- Impossible Flag Gacha (200 Poin)
