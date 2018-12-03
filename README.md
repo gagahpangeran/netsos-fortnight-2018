@@ -30,7 +30,7 @@ Repo ini berisi unofficial write up yang ditulis oleh [GPR](https://github.com/g
 - [Cascading Style Sheets (75 Poin)](https://github.com/gagahpangeran/Netsos-Fortnight-2018/tree/master/misc/cascading-style-sheets)
 - [I was once safe (75 Poin)](https://github.com/gagahpangeran/Netsos-Fortnight-2018/tree/master/misc/i-was-once-safe)
 - [Redacted Document (25 Poin)](https://github.com/gagahpangeran/Netsos-Fortnight-2018/tree/master/misc/redacted-document)
-- Slash-Slash (50 Poin)
+- [Slash-Slash (50 Poin)](https://github.com/gagahpangeran/Netsos-Fortnight-2018/tree/master/misc/slash-slash)
 
 ### Pwn
 
